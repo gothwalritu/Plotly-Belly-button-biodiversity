@@ -19,4 +19,4 @@ I customized the dashboard by adding an image in background using jumbotron, mad
 
 The below screenshot is how this dashboard looks.
 
-![Picture_1](link)
+![Picture_1](https://github.com/gothwalritu/gothwalritu.github.io/blob/main/image/2022-09-10.png)
