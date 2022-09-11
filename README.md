@@ -1,1 +1,0 @@
-# gothwalritu.github.io
